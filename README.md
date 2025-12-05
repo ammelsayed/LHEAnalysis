@@ -20,6 +20,6 @@ You can also write the intermediate particles if you handel the decays to **Mads
 
 Below are some results of boosted top decays at partonic level, which shows some important insights of the boosted top phenomology that could be helpful in reconstruction level analysis. The code can be found in the `pyroot_example.py` file. The results below were generated with the MadGrapg5 script given in the data folder, but we used here 1M events instead. The `ttbar.lhe.gz` file uploaded in here only contains 10k events due to file size limits on Github.
 
-<img width="1600" height="3000" alt="Characterstics" src="https://github.com/user-attachments/assets/39b6b893-ec5e-4aea-a4ec-4880c8455146" />
+<img width="1600" height="3000" alt="Characterstics_1M" src="https://github.com/user-attachments/assets/814ce5fb-4519-4b7d-9287-d1de6f7e5a73" />
 
 For more updates please feel welcomed to visit my website at [ammelsayed.tech](https://ammelsayed.tech/).
