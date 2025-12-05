@@ -1,0 +1,60 @@
+
+# DO NOT DELETE
+
+Particle_cxx.so: Particle.h /home/ammelsayed/root/include/TObject.h
+Particle_cxx.so: /home/ammelsayed/root/include/Rtypes.h
+Particle_cxx.so: /home/ammelsayed/root/include/RtypesCore.h
+Particle_cxx.so: /home/ammelsayed/root/include/ROOT/RConfig.hxx
+Particle_cxx.so: /home/ammelsayed/root/include/RVersion.h
+Particle_cxx.so: /home/ammelsayed/root/include/ROOT/RVersion.hxx
+Particle_cxx.so: /home/ammelsayed/root/include/RConfigure.h
+Particle_cxx.so: /home/ammelsayed/root/include/DllImport.h
+Particle_cxx.so: /home/ammelsayed/root/include/strtok.h
+Particle_cxx.so: /home/ammelsayed/root/include/strlcpy.h
+Particle_cxx.so: /home/ammelsayed/root/include/snprintf.h
+Particle_cxx.so: /home/ammelsayed/root/include/TGenericClassInfo.h
+Particle_cxx.so: /home/ammelsayed/root/include/TSchemaHelper.h
+Particle_cxx.so: /home/ammelsayed/root/include/TIsAProxy.h
+Particle_cxx.so: /home/ammelsayed/root/include/TVirtualIsAProxy.h
+Particle_cxx.so: /home/ammelsayed/root/include/TStorage.h
+Particle_cxx.so: /home/ammelsayed/root/include/TVersionCheck.h
+Particle_cxx.so: /home/ammelsayed/root/include/RVersion.h
+Particle_cxx.so: /home/ammelsayed/root/include/TLorentzVector.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMath.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMathBase.h
+Particle_cxx.so: /home/ammelsayed/root/include/TError.h
+Particle_cxx.so: /home/ammelsayed/root/include/TVector3.h
+Particle_cxx.so: /home/ammelsayed/root/include/TVector2.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrix.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixF.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixT.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixTBase.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixFBasefwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixDBasefwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/TVectorFfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/TVectorDfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixTUtils.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixFfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixFUtils.h
+Particle_cxx.so: /home/ammelsayed/root/include/TMatrixFUtilsfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/TRotation.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/Vector4D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/Vector4Dfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/PxPyPzE4D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/eta.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/etaMax.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/GenVector_exception.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/PtEtaPhiE4D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/Math.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/PxPyPzM4D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/PtEtaPhiM4D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/LorentzVector.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/DisplacementVector3D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/Cartesian3D.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/Polar3Dfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/PositionVector3Dfwd.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/GenVectorIO.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/BitReproducible.h
+Particle_cxx.so: /home/ammelsayed/root/include/Math/GenVector/CoordinateSystemTags.h
+Particle_cxx.so: /home/ammelsayed/root/include/RVersion.h /home/ammelsayed/root/include/ROOT/RConfig.hxx /home/ammelsayed/root/include/TClass.h /home/ammelsayed/root/include/TDictAttributeMap.h /home/ammelsayed/root/include/TInterpreter.h /home/ammelsayed/root/include/TROOT.h /home/ammelsayed/root/include/TBuffer.h /home/ammelsayed/root/include/TMemberInspector.h /home/ammelsayed/root/include/TError.h /home/ammelsayed/root/include/RtypesImp.h /home/ammelsayed/root/include/TIsAProxy.h /home/ammelsayed/root/include/TFileMergeInfo.h /home/ammelsayed/root/include/TCollectionProxyInfo.h /home/ammelsayed/root/bin/rootcling
+Particle_cxx__ROOTBUILDVERSION= 6.32.12

@@ -1,0 +1,26 @@
+import model sm-full
+set zerowidth_tchannel False
+define j = j b b~
+define l+ = e+ mu+ ta+
+define l- = e- mu- ta-
+define vl = ve vm vt
+define vl~ = ve~ vm~ vt~
+generate p p > t t~
+output ttbar
+launch
+shower=OFF
+detector=OFF
+analysis=MadAnalysis5
+madspin=ON
+set ebeam1 6800
+set ebeam2 6800
+set lhaid 331900
+set pdlabel lhapdf
+set use_syst False
+set cut_decays True
+set pt_min_pdg = {6: 400.0}
+set eta_max_pdg = {6: 2.5}
+set nevents 1000000
+decay t > b w+, w+ > j j
+decay t~ > b~ w-, w- > j j
+done
